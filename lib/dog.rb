@@ -9,6 +9,7 @@ attr_accessor :name
    @@all << self
  end
   
-  def self.
+  def self.all
+    @@all each do {}
   
 end
